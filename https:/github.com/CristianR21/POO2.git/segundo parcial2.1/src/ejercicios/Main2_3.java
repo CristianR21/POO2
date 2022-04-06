@@ -1,5 +1,6 @@
 package ejercicios;
 import java.util.Scanner;
+
 public class Main2_3 {
 
 	private static Conversion convertir;

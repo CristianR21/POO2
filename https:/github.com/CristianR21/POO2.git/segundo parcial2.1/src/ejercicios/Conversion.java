@@ -14,7 +14,7 @@ package ejercicios;
  * 
  * 
  */
-public class Conversion {
+public class Conversion{
 	double pesos, dolares;
 
 	public double convertirPesos(double cantidad) {
